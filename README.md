@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ### 🎓 About Me
 - **B.Tech CSE @ Amrita Vishwa Vidyapeetham, Coimbatore (2023 - 2027)**
+- Website - https://likhith-reddy.super.site/
 - 🚀 Aspiring **AI/ML Engineer** & **Cybersecurity Enthusiast**
 - 🏆 **JEE Mains 97.49 percentile** | **Student Volunteer @ Anokha Tech Fest**
 
