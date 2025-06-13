@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ## 📫 Connect with Me
 - **📧 Email:** slikhithreddy@gmail.com  
 - **🔗 LinkedIn:** https://www.linkedin.com/in/likhithreddys
-- **🌍 Portfolio:** [likhithreddy-s.github.io/my-port/]([https://likhith-reddy.vercel.app/])  
+- **🌍 Portfolio:** [likhithreddy-s.github.io/my-port/]([https://likhithreddy-s.github.io/my-port-non/])  
 
 ---
 
