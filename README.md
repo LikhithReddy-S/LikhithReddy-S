@@ -75,8 +75,8 @@ I'm an aspiring AI/ML Engineer and Full-Stack Developer focused on creating scal
 ## Connect
 
 - Email: slikhithreddy22@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/likhithreddys/)
-- Portfolio: [your-portfolio.com](https://likhith-reddy.vercel.app/)
+- LinkedIn: [Likhith Reddy S](https://www.linkedin.com/in/likhithreddys/)
+- Portfolio: [Likhith Reddy S](https://likhith-reddy.vercel.app/)
 
 ---
 
