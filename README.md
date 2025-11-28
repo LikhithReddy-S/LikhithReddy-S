@@ -71,21 +71,12 @@ I'm an aspiring AI/ML Engineer and Full-Stack Developer focused on creating scal
 - Build products that impact millions
 - Share knowledge through technical content
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LikhithReddy-S&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LikhithReddy-S&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ## Connect
 
-- Email: your.email@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Email: slikhithreddy22@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/likhithreddys/)
+- Portfolio: [your-portfolio.com](https://likhith-reddy.vercel.app/)
 
 ---
 
