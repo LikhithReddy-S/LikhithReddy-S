@@ -6,6 +6,10 @@
 
 I'm an aspiring AI/ML Engineer and Full-Stack Developer focused on creating scalable solutions. I believe in learning by building and contributing to meaningful projects that can reach millions of users.
 
+I use Arch BTW!!
+I use Nvim BTW!!
+I use Rust BTW!!
+
 **Current Focus:**
 - Building CampusConnect - A full-stack web application
 - Deep diving into Machine Learning and System Design
