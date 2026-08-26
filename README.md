@@ -1,4 +1,4 @@
-# Likhith Reddy Sirigireddy
+# Likhith Reddy S
 
 > Building AI-first products with real-world impact.
 
